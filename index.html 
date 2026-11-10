@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mahendra Devkota | IT Engineering Student</title>
+<style>
+body{margin:0;background:#0b1220;color:#edf3ff;font-family:Arial,sans-serif;line-height:1.7}
+.container{max-width:850px;margin:auto;padding:25px}
+header,.card{background:#121e31;border:1px solid #263650;border-radius:18px;padding:25px;margin-bottom:18px}
+header{text-align:center}
+.avatar{background:#2875bd;color:white;width:85px;height:85px;border-radius:50%;display:grid;place-items:center;font-size:28px;font-weight:bold;margin:auto}
+h1{margin-bottom:5px}
+.role{color:#62b6ff}
+h2{color:#62b6ff}
+a{display:inline-block;color:#62b6ff;text-decoration:none;background:#0d1829;padding:9px 13px;border-radius:9px;margin:5px}
+footer{text-align:center;color:#a9b7ce}
+</style>
+</head>
+<body>
+<div class="container">
+<header>
+<div class="avatar">MD</div>
+<h1>Mahendra Devkota</h1>
+<p class="role">IT Engineering Student</p>
+<p>Kathmandu, Nepal</p>
+</header>
+
+<div class="card">
+<h2>About Me</h2>
+<p>I am an IT Engineering student at Mahalaxmi Polytechnic in Nepal. I am interested in information technology, computer science and digital creativity. My future goal is to pursue a Bachelor's degree in Computer Science or CSIT.</p>
+</div>
+
+<div class="card">
+<h2>Education</h2>
+<p><b>College:</b> Mahalaxmi Polytechnic</p>
+<p><b>Program:</b> IT Engineering</p>
+<p><b>Semester:</b> Third Semester</p>
+<p><b>Country:</b> Nepal</p>
+</div>
+
+<div class="card">
+<h2>Learning Interests</h2>
+<p>Information Technology · Computer Fundamentals · Networking · Programming · Web Development · Database Management · Photo and Video Editing</p>
+</div>
+
+<div class="card">
+<h2>Connect With Me</h2>
+<a href="https://www.facebook.com/kancho.vira.gorkhali">Facebook</a>
+<a href="https://www.instagram.com/mahendradevkota598">Instagram</a>
+<a href="https://youtube.com/@mahendradevkota598">YouTube</a>
+<a href="https://www.tiktok.com/@mahendradevkota598">TikTok</a>
+<a href="https://mobile.capcutshare.com/sv2/ZSpyC1gaV/">CapCut</a>
+</div>
+
+<footer>© 2026 Mahendra Devkota · Personal Profile</footer>
+</div>
+</body>
+</html>
